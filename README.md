@@ -9,6 +9,7 @@ Please refer to the bias_notes.md to see details from the paper about reducing b
 - [x] Look for bias in the data
 - [x] Read the kaggle paper to find more analysis
 - [] Explain the reasons the bias happened
-- [] Make a normal implementation
+- [x] Make a normal implementation
 - [] Use the paper's metrics (KCDM and utility) to measure the bias
 - [] Apply the bias reduction method
+- [] Measure again
