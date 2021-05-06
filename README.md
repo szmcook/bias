@@ -8,8 +8,8 @@ Please refer to the bias_notes.md to see details from the paper about reducing b
 - [x] Observe interesting differences between the subgroups' stats
 - [x] Look for bias in the data
 - [x] Read the kaggle paper to find more analysis
-- [] Explain the reasons the bias happened
+- [x] Explain the reasons the bias happened
 - [x] Make a normal implementation
-- [] Use the paper's metrics (KCDM and utility) to measure the bias
-- [] Apply the bias reduction method
-- [] Measure again
+- [x] Use the paper's metrics (KCDM and disparate impact) to measure the bias
+- [x] Apply the bias reduction method
+- [x] Measure again
